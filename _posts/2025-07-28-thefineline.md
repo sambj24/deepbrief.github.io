@@ -3,9 +3,9 @@ title: "The Fine Line: When AI Replaces Experience Instead of Enhancing It"
 date: 2025-07-28 08:00:00 -0400
 categories: [posts]
 tags: [ai]
-author: joe
+author: authr
 description: "When AI Replaces Experience Instead of Enhancing It."
-toc: true
+toc: false
 ---
 **Customer-first.**  
 **Patient-centered.**  
