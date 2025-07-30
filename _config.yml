@@ -44,6 +44,16 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/joesambuco
 
+author:
+  name: "Joe Sambuco"
+  bio: "Executive in Tech | Strategic Thinker | Diver"
+  location: "Florida, USA"
+  email: sambucoj@gmail.com # change to your email address
+
+footer:
+  since: 2024
+  license: '© 2025 Joe Sambuco. The views expressed are solely my own and do not reflect those of any current or former employers or affiliated organizations.'
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
