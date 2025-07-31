@@ -7,7 +7,6 @@ author: joe
 description: "When AI Replaces Experience Instead of Enhancing It."
 toc: false
 ---
-Author key: {{ page.author }}  
 Author name: {{ site.data.author[page.author].name }}
 
 **Customer-first.**  
@@ -97,4 +96,5 @@ Your bots may process faster, but only your people leave a lasting impression.
 
 Want to strike the right balance between automation and experience? Let's build a strategy where your tools support your talent, not replace it.
 
-Happy Innovation.
+Happy Innovation. Author name: {{ site.data.author[page.author].name }}
+
