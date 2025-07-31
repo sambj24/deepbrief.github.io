@@ -14,7 +14,7 @@ Author name: {{ site.data.author[page.author].name }}
 **Patient-centered.**  
 **Human-led digital transformation.**
 
-These phrases are everywhere—but they’re becoming meaningless. Across industries, organizations are cutting corners under the banner of innovation. AI, automation, sensors, and bots are being rolled out like silver bullets. And in the process, they’re bulldozing the very thing that made good companies great: the human experience.
+These phrases are everywhere, but they’re becoming meaningless. Across industries, organizations are cutting corners under the banner of innovation. AI, automation, sensors, and bots are being rolled out like silver bullets. And in the process, they’re bulldozing the very thing that made good companies great: the human experience.
 
 Let’s not romanticize the past. Tools evolve. But we’ve confused enhancement with elimination. And the cracks are everywhere, from healthcare and insurance to hospitality and mortgages.
 
@@ -26,7 +26,7 @@ But that’s not what’s happening.
 
 ## GEICO vs. Liberty Mutual: Efficiency vs. Experience
 
-GEICO has long leaned into digital convenience, but it pairs automation with responsive human support. You can self-service 80% of what you need—but a capable rep is there when things get complicated.
+GEICO has long leaned into digital convenience, but it pairs automation with responsive human support. You can self-service 80% of what you need, but a capable rep is there when things get complicated.
 
 Liberty Mutual, on the other hand, has over-rotated on automation. Customers often get caught in endless chatbot loops or face delays during claims processes. AI filters, scripting, and digital walls frustrate users trying to solve real problems. They’ve given the nail gun to someone who never learned how to build.
 
@@ -42,21 +42,21 @@ Hospitals have adopted AI and sensor-based tech to track vitals, assign care pat
 
 At major systems like Ascension and Sutter Health, experienced RNs are being replaced with tech-enabled LPNs or remote monitoring stations. The results? Missed symptoms, lower morale, and patients who feel like data points, not people.
 
-Healthcare isn’t a factory. You can’t swap a nurse with a sensor any more than you’d replace a flight attendant with a coffee machine. The best hospitals—like Cleveland Clinic—know this. They use AI to enhance diagnostics and scheduling but double down on bedside care and personalized attention.
+Healthcare isn’t a factory. You can’t swap a nurse with a sensor any more than you’d replace a flight attendant with a coffee machine. The best hospitals, like Cleveland Clinic, know this. They use AI to enhance diagnostics and scheduling but double down on bedside care and personalized attention.
 
 ## Freedom Mortgage vs. Mutual of Omaha: When Relationships Matter
 
-Freedom Mortgage has digitized almost everything—until you need help. Customers describe being passed between automated systems and overseas agents, often during emotionally charged moments like closing delays or loan modifications.
+Freedom Mortgage has digitized almost everything, until you need help. Customers describe being passed between automated systems and overseas agents, often during emotionally charged moments like closing delays or loan modifications.
 
-Mutual of Omaha, by contrast, uses technology to simplify—but not sterilize—the process. You still get a named advisor. You still feel like a person, not a file number. That’s the difference between using AI like a nail gun—and just firing nails blindly.
+Mutual of Omaha, by contrast, uses technology to simplify, but not sterilize, the process. You still get a named advisor. You still feel like a person, not a file number. That’s the difference between using AI like a nail gun, and just firing nails blindly.
 
 ## Other Industry Analogies That Matter
 
 **Pilots and Autopilot**: Autopilot doesn’t replace pilots. It lets them focus on judgment, safety, and human decisions. You don’t want a plane that only flies itself. You want one where a skilled human knows when to step in.
 
-**Music and Production Software**: Tools like Ableton and Pro Tools made music more accessible—but artists still bring soul, timing, and creative instinct. You can’t auto-generate a hit. You enhance the performance.
+**Music and Production Software**: Tools like Ableton and Pro Tools made music more accessible, but artists still bring soul, timing, and creative instinct. You can’t auto-generate a hit. You enhance the performance.
 
-**Restaurants and Self-Service Kiosks**: Ordering from a screen is fine—until your allergy order gets botched. That’s when a human who listens, double-checks, and cares becomes the hero of the story.
+**Restaurants and Self-Service Kiosks**: Ordering from a screen is fine, until your allergy order gets botched. That’s when a human who listens, double-checks, and cares becomes the hero of the story.
 
 In all these examples, technology scales skill. It doesn’t replace it.
 
@@ -88,11 +88,11 @@ Walk through your customer or patient journey. Where are the “I feel seen” m
 
 Just because you can automate something doesn’t mean you should. Keep the human touch where it creates outsized emotional return.
 
-## Final Word: Tools Don't Build Trust—People Do
+## Final Word: Tools Don't Build Trust, People Do
 
-There’s a fine line between amplification and abandonment. AI, when used well, is like giving your best employees superpowers. But when used to cut corners, it turns craftsmanship into commodity—and your brand becomes forgettable.
+There’s a fine line between amplification and abandonment. AI, when used well, is like giving your best employees superpowers. But when used to cut corners, it turns craftsmanship into commodity, and your brand becomes forgettable.
 
 Whether you’re in healthcare, insurance, finance, or hospitality, remember this:
 Your bots may process faster, but only your people leave a lasting impression.
 
-Want to strike the right balance between automation and experience? Let's build a strategy where your tools support your talent—not replace it.
+Want to strike the right balance between automation and experience? Let's build a strategy where your tools support your talent, not replace it.
