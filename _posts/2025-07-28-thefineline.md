@@ -95,3 +95,5 @@ Whether you’re in healthcare, insurance, finance, or hospitality, remember thi
 Your bots may process faster, but only your people leave a lasting impression.
 
 Want to strike the right balance between automation and experience? Let's build a strategy where your tools support your talent, not replace it.
+
+Happy Innovation. {{ site.data.author[page.author].name }}
