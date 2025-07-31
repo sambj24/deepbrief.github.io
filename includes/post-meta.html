@@ -1,0 +1,29 @@
+{%- assign author = site.data.author[page.author] | default: nil -%}
+
+<div class="post-meta text-muted">
+  {%- if page.date -%}
+    <span class="date">
+      <i class="far fa-calendar-alt fa-fw"></i>
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+    </span>
+  {%- endif -%}
+
+  {%- if author -%}
+    <span class="author">
+      <i class="fas fa-user fa-fw"></i>
+      By
+      {%- if author.url -%}
+        <a href="{{ author.url }}">{{ author.name }}</a>
+      {%- else -%}
+        {{ author.name }}
+      {%- endif -%}
+    </span>
+  {%- endif -%}
+
+  {%- if page.categories != empty -%}
+    <span class="categories">
+      <i class="fas fa-folder-open fa-fw"></i>
+      {{ page.categories | join: ", " }}
+    </span>
+  {%- endif -%}
+</div>
