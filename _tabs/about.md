@@ -12,6 +12,4 @@ Created by [Joe Sambuco](https://www.linkedin.com/in/jsambuco), an executive in 
 
 Expect real takes. No hype. No filler.
 
----
-
 _Contact: [sambucoj@gmail.com](mailto:sambucoj@gmail.com)_
