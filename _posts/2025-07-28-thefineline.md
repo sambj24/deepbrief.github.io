@@ -7,6 +7,9 @@ author: authr
 description: "When AI Replaces Experience Instead of Enhancing It."
 toc: false
 ---
+Author key: {{ page.author }}  
+Author name: {{ site.data.author[page.author].name }}
+
 **Customer-first.**  
 **Patient-centered.**  
 **Human-led digital transformation.**
