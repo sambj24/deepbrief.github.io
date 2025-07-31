@@ -7,7 +7,7 @@ author: joe
 description: "When AI Replaces Experience Instead of Enhancing It."
 toc: false
 ---
-Author name: {{ site.data.author[page.author].name }}
+Author name: Joe Sambuco
 
 **Customer-first.**  
 **Patient-centered.**  
@@ -94,7 +94,7 @@ There’s a fine line between amplification and abandonment. AI, when used well,
 Whether you’re in healthcare, insurance, finance, or hospitality, remember this:
 Your bots may process faster, but only your people leave a lasting impression.
 
-Want to strike the right balance between automation and experience? Let's build a strategy where your tools support your talent, not replace it.
+Want to strike the right balance between automation and experience? Let's build a strategy where your tools support your talent, not replace it!
 
-Happy Innovation. Author name: {{ site.data.author[page.author].name }}
+Happy Innovation. Joe Sambuco
 
