@@ -15,7 +15,7 @@ Digital twins, virtual replicas of physical assets, systems, or processes, have 
 
 ---
 
-## Real-Time Threat Detection with Context: The Data Pipeline and Analytics
+## 1. Real-Time Threat Detection with Context: The Data Pipeline and Analytics
 
 A digital twin continuously ingests telemetry from sensors, logs, network traffic, and system events. Data flows through:
 
@@ -33,7 +33,7 @@ Integration points feed detected anomalies and system state into SIEM (Splunk, Q
 
 ---
 
-## Predictive Vulnerability Assessment: Simulation and "What-If" Scenarios
+## 2. Predictive Vulnerability Assessment: Simulation and "What-If" Scenarios
 
 Digital twins replicate full system architectures, including software versions, firmware, network topologies, and security controls. This allows:
 
@@ -45,7 +45,7 @@ Technologies include containerized sandbox environments integrated with vulnerab
 
 ---
 
-## Incident Response and Forensics: Snapshots and State Replay
+## 3. Incident Response and Forensics: Snapshots and State Replay
 
 Digital twins enable:
 
@@ -57,7 +57,7 @@ EDR tools (CrowdStrike, Cortex, Carbon Black) integrate for synchronized forensi
 
 ---
 
-## Continuous Compliance and Risk Management: Automation and Reporting
+## 4. Continuous Compliance and Risk Management: Automation and Reporting
 
 The digital twin serves as a **single source of truth**:
 
@@ -67,7 +67,7 @@ The digital twin serves as a **single source of truth**:
 
 ---
 
-## Bridging IT and OT: Unified Digital Twin Architecture
+## 5. Bridging IT and OT: Unified Digital Twin Architecture
 
 OT systems often use legacy protocols (Modbus, DNP3). Digital twins bridge IT and OT by:
 
