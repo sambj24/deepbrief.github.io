@@ -7,6 +7,7 @@ author: authr
 description: "Digital twin technology is no longer just a tool for predictive maintenance, it's rapidly becoming a cornerstone in modern cybersecurity strategies."
 toc: false
 ---
+
 Author name: Joe Sambuco
 
 # How Aligning Digital Twin Technology with Cybersecurity Strengthens Defense
