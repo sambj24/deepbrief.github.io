@@ -49,7 +49,7 @@ The barrier to entry has dropped. What used to require a team of engineers and m
 
 ## Industry Examples & Playbooks
 
-### 🛍 Retail & E-Commerce  
+### Retail & E-Commerce  
 **Use Case**: AI-driven product recommendations, inventory forecasting, automated reviews  
 **Tool**: Shopify + ChatGPT Plugin  
 **Case Study**: *Flint & Field*, a 2-person shop, increased repeat sales by **26%** after implementing personalized email + AI recommendations using Klaviyo + ChatGPT. They focused on transparent customer communication around AI use, ensuring customers knew their data was handled securely — building trust and repeat business.
@@ -90,7 +90,7 @@ The barrier to entry has dropped. What used to require a team of engineers and m
 
 ---
 
-### 🍽 Hospitality & Food  
+### Hospitality & Food  
 **Use Case**: Menu optimization, online ordering automation, sentiment analysis  
 **Tool**: OpenTable AI Insights, Yelp Review Parser, Canva  
 **Case Study**: *La Pasta Fresca*, a mom-and-pop shop in NJ, used AI to analyze 500 Yelp reviews and modified their menu. Customer satisfaction rose **17%** in 2 months. They posted publicly about how they used AI responsibly to improve service, customers appreciated the transparency, boosting loyalty.
