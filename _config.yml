@@ -14,19 +14,19 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: "The Deep Brief" # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: "Deep Brief: No Takes. No Fluff" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  "Leadership, tech, and clarity from beneath the noise."
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://www.deepbrief.org"
 
 github:
-  username: github_username # change to your GitHub username
+  username: sambj24 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,15 +34,27 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: "Joe Sambuco"
+  email: sambucoj@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/joeriddler # change to your Twitter homepage
+    - https://github.com/sambj24 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/joesambuco
+
+author:
+  name: "Joe Sambuco"
+  bio: "Executive in Tech | Strategic Thinker | Diver"
+  location: "Florida, USA"
+  email: sambucoj@gmail.com # change to your email address
+
+footer:
+  since: '2025 - Joe Sambuco. The views expressed are solely my own and do not reflect those of any current or former employers or affiliated organizations.'
+
+license: '© 2025 Joe Sambuco. The views expressed are solely my own and do not reflect those of any current or former employers or affiliated organizations.'
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +110,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/logo.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
