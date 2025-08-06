@@ -4,8 +4,7 @@ date: 2025-07-28 08:00:00 -0400
 categories: [posts]
 tags: [ai]
 author: joe
-description: "Practical, low-cost AI strategies and tools for small businesses to boost efficiency, customer trust, and growth.
-"
+description: "Practical, low-cost AI strategies and tools for small businesses to boost efficiency, customer trust, and growth."
 toc: false
 ---
 Author name: Joe Sambuco
