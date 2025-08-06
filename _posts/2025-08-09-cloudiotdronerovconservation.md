@@ -1,6 +1,6 @@
 ---
 title: "How Cloud, Satellite, IoT, Drone, and ROV Technology Are Saving Fish and Wildlife from Pollution and Climate Change"
-date: 2025-08-6 08:00:00 -0400
+date: 2025-08-06 08:00:00 -0400
 categories: [posts]
 tags: [robotics]
 author: joe
