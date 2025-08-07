@@ -4,7 +4,7 @@ date: 2025-08-07 08:00:00 -0400
 categories: [posts]
 tags: [technology]
 author: joe
-description: "If your team isn’t managing infrastructure like product, you’re moving too slow, spending too much, and putting customers at risk."
+description: "If your team is not managing infrastructure like product, you’re moving too slow, spending too much, and putting customers at risk."
 toc: false
 ---
 
