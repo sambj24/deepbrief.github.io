@@ -48,16 +48,16 @@ Until recently, true cloud access required proximity to cellular or port-based n
 
 ## Case Studies: Real World at Work
 
-### 🌊 Divers Den (Australia)
+### Divers Den (Australia)
 - **Liveaboard OceanQuest** installed Starlink in 2023
 - Enabled guests to complete eLearning at sea (PADI courses)
 - Enhanced crew ops and safety communications
 
-### 🚢 Hughes Subsea
+### Hughes Subsea
 - Used Starlink for ROV + commercial dive ops on offshore wind farms
 - Reported 250–300× internet performance improvement over VSAT
 
-### 🛰 Hurtigruten Cruise Line
+### Hurtigruten Cruise Line
 - Completed fleet-wide Starlink deployment in 2022 via Speedcast
 - Used for guest apps, logistics, safety systems, and live diagnostics
 
@@ -81,16 +81,16 @@ Both use edge sensors + satellite cloud systems to create smart, connected ecosy
 
 ## AI Implications: The Next Wave
 
-### 🤖 Real-Time Dive AI
+### Real-Time Dive AI
 - Pattern recognition on depth/gas/health anomalies
 - Predictive alerts for deco risk or dive fatigue
 - AI-based dive planning adjusted per diver profile
 
-### 🌐 Autonomous Systems
+### Autonomous Systems
 - ROVs and AUVs sending live data through surface relays
 - Dive profiles, sonar, imagery processed by AI engines
 
-### ✈ Navy + DoD Applications
+### Navy + DoD Applications
 - Starlink being tested for remote ops, telemetry, and drone coordination
 - Naval divers soon to have real-time biometrics monitored and evaluated remotely
 - Edge AI + cloud: perfect combo for missions in GPS-denied or contested environments
