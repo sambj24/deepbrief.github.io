@@ -9,7 +9,7 @@ toc: false
 ---
 
 
-I’m a strong believer in Simon Sinek’s philosophy: start with why, focus on the customer, and success follows. Clean data is the foundation of that approach. Without it, decisions fail. With it, companies anticipate customer needs—even needs customers didn’t know they had.
+I’m a strong believer in Simon Sinek’s philosophy: start with why, focus on the customer, and success follows. Clean data is the foundation of that approach. Without it, decisions fail. With it, companies anticipate customer needs, even needs customers didn’t know they had.
 
 ---
 
@@ -20,7 +20,7 @@ Bad data leads to bad strategy. Clean, accurate, and governed data unlocks insig
 - **81% of firms admit poor data quality hurts their projects**. Zillow’s failed home pricing model is a prime example. Inaccurate training data cost them billions [source](https://www.techradar.com/pro/ai-and-machine-learning-projects-will-fail-without-good-data).
 - **40% of organizations lack strong governance**, creating fragmented, unreliable data [source](https://www.techradar.com/pro/what-is-dirty-data-and-why-is-it-important-for-businesses-to-eliminate-it).
 
-AI, ML, and analytics work only as well as the data behind them. Garbage in, garbage out isn’t a cliché—it’s reality.
+AI, ML, and analytics work only as well as the data behind them. Garbage in, garbage out isn’t a cliché, it’s reality.
 
 ---
 
@@ -59,13 +59,13 @@ Lesson: Accuracy without governance and ethics still fails.
 - Small UI tweaks became major revenue wins.
 [Research](https://arxiv.org/abs/1710.08217).
 
-Great companies anticipate needs through insight—not surveys.
+Great companies anticipate needs through insight, not surveys.
 
 ---
 
 ## Simon Sinek and the “Why” Behind Data
 
-Sinek says: Start with why. Data isn’t the goal—impact is. When you tie metrics to purpose, you create alignment. Teams act on meaning, not just numbers.
+Sinek says: Start with why. Data isn’t the goal, impact is. When you tie metrics to purpose, you create alignment. Teams act on meaning, not just numbers.
 [More from Sinek](https://simonsinek.com/stories/what-most-leaders-miss-when-looking-at-their-data).
 
 ---
