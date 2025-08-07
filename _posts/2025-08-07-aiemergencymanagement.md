@@ -9,7 +9,9 @@ toc: false
 ---
 Author name: Joe Sambuco
 
-I have a deep respect for our first responders and military service members. Observing my wife, who works in the emergency medical industry, I never truly understood the operational and emotional complexity of emergency medical response. The pace. The chaos. The gaps. That changed when I became the treasurer for my local ambulance company in Pennsylvania. Suddenly, I was on the inside, watching incredible people trying to meet critical needs with aging infrastructure, limited bandwidth, and barely functioning tech. 
+I have a deep respect for our first responders and military service members. Observing my wife, who works in the emergency medical industry as one of these hero's, I never truly understood the operational and emotional complexity of emergency medical response. The pace. The chaos. The gaps. Such a need for digital modernization.
+
+That changed when I became the treasurer for my local ambulance company in Pennsylvania. Suddenly, I was on the inside, watching incredible people trying to meet critical needs with aging infrastructure, limited bandwidth, and barely functioning tech. 
 
 It became clear: the will to serve is strong, but the tools we give our first responders are often decades behind the mission or overly priced that they are often unobtainable withour goverment grants or public donations.
 
