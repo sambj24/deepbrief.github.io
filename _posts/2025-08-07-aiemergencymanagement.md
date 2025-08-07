@@ -1,6 +1,6 @@
 ---
 title: "AI in Emergency Management: It's Not About the Hype, It's About the Uptime"
-date: 2025-08-14 08:00:00 -0400
+date: 2025-08-06 08:00:00 -0400
 categories: [posts]
 tags: [ai]
 author: joe
