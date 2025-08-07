@@ -34,8 +34,6 @@ Cloud systems act as the central hub where all environmental data converges.
 - Wildlife Insights (Google Cloud): Processes 3.6 million wildlife images per hour, accelerating species identification and conservation decisions ([source](https://sustainability.google/operating-sustainably/stories/wildlife-insights/?utm_source=chatgpt.com)).
 - Valiance AI: Real-time poaching alerts from camera traps have reduced human-wildlife conflict, preventing both human and animal fatalities.
 
-![Cloud AI dashboard with wildlife detection](https://www.mdpi.com/2079-9292/11/1/51)
-
 ---
 
 ## Satellite & Satellite IoT: Global Detection at Scale
@@ -47,8 +45,6 @@ Satellites provide macro-scale monitoring across oceans and forests, while LEO I
 **Case Study**
 - CleanSeaNet (ESA): Detects oil slicks using SAR satellites and alerts EU nations within 30 minutes ([source](https://en.wikipedia.org/wiki/CleanSeaNet?utm_source=chatgpt.com)).
 - OroraTech: AI-driven nanosatellites detect wildfires and ecosystem damage in near real-time ([source](https://blogs.nvidia.com/blog/ai-protects-wildlife/?utm_source=chatgpt.com)).
-
-![Satellite image monitoring ocean pollution](https://www.mdpi.com/2071-1050/14/18/11101)
 
 ---
 
@@ -62,8 +58,6 @@ IoT devices are deployed across rivers, reefs, and remote habitats:
 - Great Barrier Reef IoT Monitoring: Smart buoys send data to AI platforms predicting coral bleaching events months ahead ([source](https://pharosproject.eu/blog/how-ai-drones-and-iot-are-transforming-ocean-protection/?utm_source=chatgpt.com)).
 - Elephant Listening Project (Cornell): Acoustic sensors detect poaching threats using real-time sound analysis ([source](https://www.nutanix.com/theforecastbynutanix/industry/preserving-biodiversity-with-cloud-computing-technology?utm_source=chatgpt.com)).
 
-![IoT buoy monitoring coral reef health](https://www.mdpi.com/2504-446X/6/8/117)
-
 ---
 
 ## Drones: Precision and Rapid Response
@@ -75,8 +69,6 @@ Drones provide fast aerial coverage for mapping, surveillance, and targeted insp
 **Case Study**
 - In Zambia, thermal drones integrated with AI cut rhino poaching by 96% ([source](https://geospatialworld.net/blogs/drones-and-ai-assist-in-mapping-ecology-wildlife-conservation/?utm_source=chatgpt.com)).
 - Sea Shepherd uses drones to track illegal fishing fleets and document ocean dumping ([source](https://www.theguardian.com/environment/2024/mar/26/drones-beyond-effective-for-animal-rights-campaigners-around-the-world?utm_source=chatgpt.com)).
-
-![Drone scanning wetlands for wildlife](https://www.mdpi.com/2504-446X/9/1/52)
 
 ---
 
@@ -91,8 +83,6 @@ ROVs extend conservation tech to deep water where drones and divers cannot opera
 - Schmidt Ocean Institute’s ROV SuBastian: Discovered previously unknown coral ecosystems while monitoring acidification impacts ([source](https://schmidtocean.org/technology/rov-subastian/?utm_source=chatgpt.com)).
 - ROVs are now standard in pipeline inspection to prevent subsea oil leaks from devastating marine life.
 
-![ROV operating near coral reef ecosystem](https://www.mdpi.com/2071-1050/14/8/4745)
-
 ---
 
 ## Integrated Workflow: Full-Stack Conservation
@@ -103,8 +93,6 @@ The power comes from integration:
 4. ROVs verify underwater damage and deploy mitigation tools.
 5. Cloud AI fuses all data streams and triggers alerts.
 6. Dashboards visualize risks and predict future threats.
-
-![Integrated data flow: IoT + Drone + ROV + Satellite → Cloud AI](https://www.mdpi.com/2071-1050/14/18/11101)
 
 ---
 
