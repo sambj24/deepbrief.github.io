@@ -1,12 +1,13 @@
 ---
 title: "Infrastructure as Code Is Not Optional Anymore"
-date: 2025-08-14 08:00:00 -0400
+date: 2025-08-07 08:00:00 -0400
 categories: [posts]
-tags: [IaC]
+tags: [technology]
 author: joe
 description: "If your team isn’t managing infrastructure like product, you’re moving too slow, spending too much, and putting customers at risk."
 toc: false
 ---
+
 Author name: Joe Sambuco
 
 Infrastructure as Code (IaC) is the backbone of secure, repeatable, scalable operations. It’s not a DevOps nice-to-have. It’s a security, speed, and survivability requirement.
