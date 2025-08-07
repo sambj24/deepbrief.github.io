@@ -13,7 +13,7 @@ I have a deep respect for our first responders and military service members. Obs
 
 That changed when I became the treasurer for my local ambulance company in Pennsylvania. Suddenly, I was on the inside, watching incredible people trying to meet critical needs with aging infrastructure, limited bandwidth, and barely functioning tech. 
 
-It became clear: the will to serve is strong, but the tools we give our first responders are often decades behind the mission or overly priced that they are often unobtainable withour goverment grants or public donations.
+It became clear: the will to serve is strong, but the tools we give our first responders are often decades behind the mission, or so overly priced that they are often unobtainable without goverment grants or public donations that are planned for years in advance.
 
 Emergency management isn’t about planning for perfect days. It’s about being ready when the sky falls, wildfires, floods, hurricanes, cyberattacks, terrorist incidents, or large-scale power failures. In those moments, the tools we count on can’t blink. And that’s where AI, edge tech, and cloud-connected infrastructure either show up, or fail us.
 
