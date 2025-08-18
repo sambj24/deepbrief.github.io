@@ -4,7 +4,7 @@ date: 2025-08-14 08:00:00 -0400
 categories: [posts]
 tags: [ai]
 author: joe
-description: "Why small businesses nee to understand Prompt Engineering and the plus and minus to driving their business."
+description: "Why small businesses need to understand Prompt Engineering and the plus and minus to driving their business."
 toc: false
 ---
 Author name: Joe Sambuco
