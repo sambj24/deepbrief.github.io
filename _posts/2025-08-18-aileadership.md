@@ -93,6 +93,10 @@ AI dependency spreads through organizations like a virus. When senior leaders de
 
 ## The Hype Cycle and Historical Parallels: Lessons from Automation Disasters
 
+A recent **Fortune** article highlights a stark finding from an MIT report: approximately **95 % of generative AI pilots at companies are failing to deliver measurable returns**. The report notes that “just 5 % of integrated AI pilots are extracting millions in value, while the vast majority remain stuck with no measurable [profit and loss] impact.” This serves as a powerful cautionary tale about overestimating AI’s near-term benefits without sufficient infrastructure, strategy, or execution capabilities.
+
+[The Hype Cycle and Historical Parallels: Lessons from Automation Disasters](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
+
 ### The New Snake Oil Sales Pitch
 The current AI leadership tools market mirrors the automation consulting gold rush of the early 2000s. Software vendors promise AI will make executives "10x more effective" and "eliminate decision-making uncertainty." Sound familiar? These are the same promises made about ERP systems, business intelligence platforms, and process automation tools that led to billions in failed implementations.
 
