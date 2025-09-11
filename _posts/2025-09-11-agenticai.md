@@ -1,3 +1,14 @@
+---
+title: "The Agentic Shift: Building a Governance Model for the AI That Acts"
+date: 2025-09-11 08:00:00 -0400
+categories: [posts]
+tags: [ai]
+author: joe
+description: "As the conversation around Artificial Intellegence (AI) is evolving, we find that most companies are dangerously behind the curve."
+toc: false
+---
+Author name: Joe Sambuco
+
 # The Agentic Shift: Building a Governance Model for the AI That Acts
 
 ## 
