@@ -1,5 +1,5 @@
 ---
-title: "The Agentic Shift: Building a Governance Model for the AI That Acts"
+title: "The Agentic Shift: Building a Governance Model for the AI That Acts."
 date: 2025-09-11 08:00:00 -0400
 categories: [posts]
 tags: [ai]

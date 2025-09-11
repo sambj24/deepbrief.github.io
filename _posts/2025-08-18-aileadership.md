@@ -1,5 +1,5 @@
 ---
-title: "# AI in Leadership: The Difference Between Augmentation and Abdication"
+title: "AI in Leadership: The Difference Between Augmentation and Abdication"
 date: 2025-08-18 08:00:00 -0400
 categories: [posts]
 tags: [ai]
