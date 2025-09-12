@@ -11,8 +11,6 @@ Author name: Joe Sambuco
 
 # The Agentic Shift: Building a Governance Model for the AI That Acts
 
-## 
-
 ## Introduction
 
 The technology industry evolves through a series of transformative paradigms, each promising a new competitive edge. We've witnessed the imperative to be "**Cloud First**" and architect "**Cloud Native**" systems. We've been swept up in the waves of "**Digital Transformation**," operationalized by "**Agile**," "**DevOps**," and "**DevSecOps**" methodologies, and reoriented by the "**Mobile First**" mandate. Now, the tide has turned again, and the rallying cry is "**AI First**," marking the latest fundamental shift in how organizations build, compete, and innovate. This inevitable progression begs the question: in an AI-first world, what comes next, and how do we navigate it?
@@ -39,7 +37,7 @@ Let's clear the confusion. These are two different classes of technology with ve
 * **What it is:** A system that uses a generative AI model as its "brain" for reasoning and planning, but is equipped with tools (APIs, databases, web browsers, control systems) to autonomously execute tasks and achieve multi step goals with minimal human intervention.
 * **Core Function:** Autonomous Execution and Task Completion.
 * **Key Product Examples:** An AI that can complete a full software development lifecycle, a robot that navigates a warehouse and manages inventory, an automated financial analyst that executes trades.
-* **Architecture:** An **Agent Framework** (e.g., LangChain, AutoGPT, CrewAI) that wraps around a core LLM. This framework provides memory, tool use, **and an **execution loop (Plan -> Act -> Evaluate -> Repeat).
+* **Architecture:** An **Agent Framework** (e.g., LangChain, AutoGPT, CrewAI) that wraps around a core LLM. This framework provides memory, tool use, and an execution loop (Plan -> Act -> Evaluate -> Repeat).
 
 | Aspect           | Generative AI                        | Agentic AI                                                                                   |
 |:---------------- |:------------------------------------ |:-------------------------------------------------------------------------------------------- |
@@ -53,7 +51,8 @@ Let's clear the confusion. These are two different classes of technology with ve
 
 ### Healthcare
 
-* **Generative:** **Drug Discovery.** Models like AlphaFold2 *generate* predictions of protein structures, accelerating initial research. **Result:** Reduced early stage discovery time from years to months.
+* **Generative:** **Drug Discovery.** Models like AlphaFold2 *generate* predictions of protein structures, accelerating initial research. 
+**Result:** Reduced early stage discovery time from years to months.
 * **Agentic:** **Surgical Robotics.** An AI agent doesn't just suggest a surgical plan; it *controls* robotic instruments to execute precise maneuvers, adjusting in real time to tissue feedback. 
 * **Governance Need:** Absolute real time reliability, explainability of every micro action, and a flawless human "kill switch."
 
@@ -117,7 +116,7 @@ Your governance policy must explicitly define **Zero Exception Human in the Loop
 5. **Handling Sensitive Personal Data:** A request to expose PII or PHI. The decision to override privacy protections must rest with an authorized human.
 6. **Any Action That Physically Interacts with a Human:** Surgery, patient care, complex autonomous vehicle maneuvers. The unpredictability of human behavior requires human responsibility.
 
-**Implementation:** These must be hard coded **circuit breakers**, not guidelines. The system must be designed to **pause and escalate**, with a clear audit trail of the human's decision.
+**Implementation:** These must be hard coded circuit breakers, not guidelines. The system must be designed to pause and escalate, with a clear audit trail of the human's decision.
 
 ## Building the AI Native Organization
 
@@ -136,7 +135,7 @@ Adopting this AI paradigm requires an organizational shift to a cross functional
   * *Domain Expert:* Provides critical subject matter expertise.
   * *Quality & Validation Analyst:* Tests for accuracy, bias, and safety.
 
-### Transferable Skills: Your AI Talent is Already Here
+### Transferable Skills: Your AI Talent is Already Here. Advance this expertise.
 
 | Current Role              | Transferable Skills                             | AI Role                    |
 |:------------------------- |:----------------------------------------------- |:-------------------------- |
@@ -149,10 +148,10 @@ Adopting this AI paradigm requires an organizational shift to a cross functional
 
 ## Conclusion
 
-The shift from Generative to Agentic AI is a quantum leap in capability and risk. It marks the transition from AI as a tool to AI as an autonomous operator.
+The shift from Generative to Agentic AI is a quantum leap in both in capability and in risks. It marks the transition from AI as a tool, to AI as an autonomous operator.
 
 Governance is no longer a compliance checklist; it is the fundamental enabler of safe innovation. It is the difference between an agent that streamlines your operations and one that destabilizes them. By building the right organizational model and governing the entire stack, from the brain down to the hand, you create the guardrails for responsible and powerful automation.
 
 Start building your governance model today, because the agents are already learning to act.
 
-**Call to Action:** Don't start with a use case. Start with your biggest risk. Assemble a team and conduct a threat assessment. That assessment is the first page of your governance manual.
+**Here is your takeaway:** Don't start with a use case. Start with your biggest risk. Assemble a team and conduct a threat assessment. That assessment is the first page of your governance manual.
