@@ -1,0 +1,278 @@
+/* ============================================
+   DEEP BRIEF - SAFE CSS-ONLY ANIMATIONS
+   Simple, non-breaking animations
+   ============================================ */
+
+/* ============================================
+   SUBTLE PAGE FADE IN
+   ============================================ */
+
+#main-wrapper {
+  animation: fadeInPage 0.5s ease-out;
+}
+
+@keyframes fadeInPage {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ============================================
+   ENHANCED HOVER EFFECTS
+   ============================================ */
+
+/* Card hover enhancement */
+.card {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(10, 25, 41, 0.15);
+}
+
+/* Post preview hover enhancement */
+.post-preview {
+  transition: all 0.2s ease;
+  border-left: 3px solid transparent;
+}
+
+.post-preview:hover {
+  padding-left: 1rem;
+  border-left-color: #4bc5b8;
+  background: rgba(75, 197, 184, 0.03);
+}
+
+/* ============================================
+   PULSING AVATAR GLOW
+   ============================================ */
+
+.site-avatar {
+  animation: avatarGlow 3s ease-in-out infinite;
+}
+
+@keyframes avatarGlow {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(75, 197, 184, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(75, 197, 184, 0.6);
+  }
+}
+
+/* ============================================
+   TAG/CATEGORY HOVER
+   ============================================ */
+
+.tag,
+.category {
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.tag:hover,
+.category:hover {
+  transform: translateY(-2px) scale(1.05);
+  box-shadow: 0 4px 8px rgba(44, 95, 124, 0.3);
+}
+
+/* ============================================
+   BACK TO TOP BUTTON ENHANCEMENT
+   ============================================ */
+
+#back-to-top {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+#back-to-top:hover {
+  transform: translateY(-3px) scale(1.05);
+  box-shadow: 0 8px 16px rgba(10, 25, 41, 0.25);
+}
+
+/* ============================================
+   LINK GLOW ON HOVER
+   ============================================ */
+
+.post-content a:not(.btn) {
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.post-content a:not(.btn):hover {
+  color: #4bc5b8;
+}
+
+.post-content a:not(.btn)::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: linear-gradient(90deg, #4bc5b8, #5dd9c1);
+  transition: width 0.3s ease;
+}
+
+.post-content a:not(.btn):hover::after {
+  width: 100%;
+}
+
+/* ============================================
+   BUTTON HOVER
+   ============================================ */
+
+.btn {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(10, 25, 41, 0.2);
+}
+
+/* ============================================
+   IMAGE HOVER ZOOM
+   ============================================ */
+
+.post-content img {
+  transition: all 0.3s ease;
+}
+
+.post-content img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 16px rgba(10, 25, 41, 0.2);
+}
+
+/* ============================================
+   TABLE ROW HOVER
+   ============================================ */
+
+tbody tr {
+  transition: all 0.2s ease;
+}
+
+tbody tr:hover {
+  background-color: rgba(75, 197, 184, 0.08);
+  transform: scale(1.01);
+}
+
+/* ============================================
+   SIDEBAR LINK HOVER
+   ============================================ */
+
+#sidebar .nav-link {
+  transition: all 0.2s ease;
+}
+
+#sidebar .nav-link:hover {
+  transform: translateX(4px);
+  background: rgba(75, 197, 184, 0.1);
+}
+
+/* ============================================
+   SUBTLE GRADIENT ANIMATION ON HEADINGS
+   ============================================ */
+
+h1 {
+  position: relative;
+}
+
+h1::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(90deg, #4bc5b8, #5dd9c1);
+  margin-top: 0.75rem;
+  border-radius: 2px;
+  animation: gradientShift 3s ease infinite;
+}
+
+@keyframes gradientShift {
+  0%, 100% {
+    opacity: 0.8;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+/* ============================================
+   BLOCKQUOTE HIGHLIGHT
+   ============================================ */
+
+blockquote {
+  transition: all 0.3s ease;
+}
+
+blockquote:hover {
+  background: linear-gradient(90deg, rgba(75, 197, 184, 0.08) 0%, transparent 100%);
+  border-left-color: #5dd9c1 !important;
+  padding-left: 1.75rem;
+}
+
+/* ============================================
+   CODE BLOCK ENHANCEMENT
+   ============================================ */
+
+.highlight,
+pre.highlight {
+  transition: all 0.3s ease;
+}
+
+.highlight:hover,
+pre.highlight:hover {
+  box-shadow: 0 4px 12px rgba(10, 25, 41, 0.15);
+}
+
+/* ============================================
+   FOOTER LINK HOVER
+   ============================================ */
+
+footer a {
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+footer a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  width: 0;
+  height: 1px;
+  background: #4bc5b8;
+  transition: all 0.3s ease;
+  transform: translateX(-50%);
+}
+
+footer a:hover::after {
+  width: 100%;
+}
+
+/* ============================================
+   SEARCH BOX FOCUS
+   ============================================ */
+
+#search-input:focus {
+  box-shadow: 0 0 0 3px rgba(75, 197, 184, 0.2);
+  border-color: #4bc5b8;
+}
+
+/* ============================================
+   REDUCE MOTION PREFERENCE
+   ============================================ */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

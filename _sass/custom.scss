@@ -1,0 +1,376 @@
+/* ============================================
+   DEEP BRIEF - PROFESSIONAL THEME
+   Deep Sea aesthetic with executive polish
+   ============================================ */
+
+/* Import Professional Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap');
+
+/* ============================================
+   COLOR VARIABLES
+   ============================================ */
+
+/* Light Mode Colors */
+:root {
+  /* Deep ocean blues */
+  --heading-color: #1a3a52;
+  --link-color: #2c5f7c;
+  --link-hover-color: #4bc5b8;
+
+  /* Sidebar - Deep ocean gradient */
+  --sidebar-bg: linear-gradient(180deg, #0d1b2a 0%, #1a3a52 50%, #2c5f7c 100%);
+  --nav-cursor-color: #4bc5b8;
+  --sidebar-muted-color: #5dd9c1;
+  --sidebar-active-color: #ffffff;
+
+  /* Accents */
+  --btn-border-color: #2c5f7c;
+  --btn-backtotop-color: #4bc5b8;
+  --btn-backtotop-border-color: #2c5f7c;
+
+  /* Professional additions */
+  --card-shadow: 0 2px 8px rgba(10, 25, 41, 0.08);
+  --card-shadow-hover: 0 8px 16px rgba(10, 25, 41, 0.12);
+}
+
+/* Dark Mode Colors */
+[data-mode='dark'] {
+  --heading-color: #5dd9c1;
+  --link-color: #4bc5b8;
+  --link-hover-color: #5dd9c1;
+
+  --sidebar-bg: linear-gradient(180deg, #000000 0%, #0d1b2a 50%, #1a3a52 100%);
+  --sidebar-muted-color: #4bc5b8;
+  --nav-cursor-color: #5dd9c1;
+
+  --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --card-shadow-hover: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+/* ============================================
+   PROFESSIONAL TYPOGRAPHY
+   ============================================ */
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.011em;
+}
+
+/* Use serif font for blog post content for better readability */
+.post-content,
+article > p,
+article > ul,
+article > ol {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 1.125rem;
+  line-height: 1.75;
+  letter-spacing: 0.002em;
+}
+
+/* Keep headings in sans-serif for clean hierarchy */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* ============================================
+   SIDEBAR ENHANCEMENTS
+   ============================================ */
+
+#sidebar {
+  background: var(--sidebar-bg) !important;
+
+  .site-title a {
+    font-weight: 700;
+    letter-spacing: 0.3px;
+  }
+
+  .site-subtitle {
+    font-style: italic;
+    font-size: 0.875rem;
+    opacity: 0.9;
+  }
+}
+
+/* Avatar with professional polish */
+.site-avatar {
+  border: 3px solid #4bc5b8;
+  box-shadow: 0 0 20px rgba(75, 197, 184, 0.4);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 25px rgba(75, 197, 184, 0.6);
+  }
+}
+
+/* ============================================
+   ENHANCED SPACING & LAYOUT
+   ============================================ */
+
+/* Better content spacing */
+#main-wrapper {
+  padding-top: 3rem;
+}
+
+.post-content {
+  > p {
+    margin-bottom: 1.5em;
+  }
+
+  > h2 {
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid rgba(75, 197, 184, 0.2);
+  }
+
+  > h3 {
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+  }
+}
+
+/* ============================================
+   PROFESSIONAL CARD STYLING
+   ============================================ */
+
+.card {
+  border-radius: 8px;
+  box-shadow: var(--card-shadow);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--card-shadow-hover);
+  }
+}
+
+/* Post preview cards */
+.post-preview {
+  transition: all 0.2s ease;
+  padding-left: 0;
+  border-left: 3px solid transparent;
+
+  &:hover {
+    padding-left: 1rem;
+    border-left-color: #4bc5b8;
+    background: rgba(75, 197, 184, 0.02);
+  }
+}
+
+/* ============================================
+   ENHANCED LINKS & BUTTONS
+   ============================================ */
+
+a {
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover {
+    color: var(--link-hover-color);
+  }
+}
+
+/* Professional button styling */
+.btn {
+  font-weight: 600;
+  border-radius: 6px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(10, 25, 41, 0.15);
+  }
+}
+
+/* Back to top button */
+#back-to-top {
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(10, 25, 41, 0.15);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 6px 16px rgba(10, 25, 41, 0.25);
+  }
+}
+
+/* ============================================
+   PROFESSIONAL TABLES
+   ============================================ */
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: var(--card-shadow);
+  margin: 2rem 0;
+
+  thead {
+    background: linear-gradient(135deg, #2c5f7c 0%, #4bc5b8 100%);
+
+    th {
+      color: white;
+      font-weight: 600;
+      padding: 1rem;
+      text-align: left;
+    }
+  }
+
+  tbody {
+    tr {
+      transition: background-color 0.2s ease;
+
+      &:hover {
+        background-color: rgba(75, 197, 184, 0.05);
+      }
+
+      td {
+        padding: 0.875rem 1rem;
+      }
+    }
+  }
+}
+
+/* ============================================
+   CODE BLOCKS & SYNTAX
+   ============================================ */
+
+code:not(.highlighter-rouge) {
+  background: rgba(44, 95, 124, 0.08);
+  color: #2c5f7c;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-size: 0.875em;
+  font-weight: 500;
+}
+
+.highlight,
+pre.highlight {
+  border-radius: 8px;
+  box-shadow: var(--card-shadow);
+}
+
+/* ============================================
+   BLOCKQUOTES
+   ============================================ */
+
+blockquote {
+  border-left: 4px solid #4bc5b8 !important;
+  background: linear-gradient(90deg, rgba(75, 197, 184, 0.05) 0%, transparent 100%);
+  padding: 1rem 1.5rem;
+  margin: 2rem 0;
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+}
+
+/* ============================================
+   TAGS & CATEGORIES
+   ============================================ */
+
+.tag,
+.category {
+  background: linear-gradient(135deg, #2c5f7c 0%, #4bc5b8 100%);
+  color: white;
+  padding: 0.35rem 0.85rem;
+  border-radius: 20px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  display: inline-block;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(44, 95, 124, 0.3);
+    color: white;
+  }
+}
+
+/* ============================================
+   POST METADATA
+   ============================================ */
+
+.post-meta {
+  font-size: 0.9rem;
+  font-family: 'Inter', sans-serif;
+
+  i {
+    color: #4bc5b8;
+  }
+}
+
+/* ============================================
+   IMAGES & MEDIA
+   ============================================ */
+
+.post-content img {
+  border-radius: 8px;
+  box-shadow: var(--card-shadow);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover {
+    box-shadow: var(--card-shadow-hover);
+  }
+}
+
+/* ============================================
+   LIST IMPROVEMENTS
+   ============================================ */
+
+.post-content {
+  ul, ol {
+    margin: 1.5rem 0;
+
+    li {
+      margin-bottom: 0.5rem;
+      line-height: 1.7;
+    }
+  }
+
+  ul li::marker {
+    color: #4bc5b8;
+  }
+}
+
+/* ============================================
+   HORIZONTAL RULES
+   ============================================ */
+
+hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent 0%, #4bc5b8 50%, transparent 100%);
+  margin: 3rem 0;
+}
+
+/* ============================================
+   FOOTER
+   ============================================ */
+
+footer {
+  border-top: 2px solid rgba(75, 197, 184, 0.2);
+  margin-top: 4rem;
+}
+
+/* ============================================
+   RESPONSIVE REFINEMENTS
+   ============================================ */
+
+@media (max-width: 768px) {
+  .post-content,
+  article > p {
+    font-size: 1rem;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  table {
+    font-size: 0.875rem;
+  }
+}

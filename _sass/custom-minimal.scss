@@ -1,0 +1,63 @@
+/* ============================================
+   DEEP BRIEF - MINIMAL SAFE VERSION
+   ============================================ */
+
+/* Import Professional Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap');
+
+/* ============================================
+   COLOR VARIABLES ONLY
+   ============================================ */
+
+:root {
+  --heading-color: #1a3a52;
+  --link-color: #2c5f7c;
+  --link-hover-color: #4bc5b8;
+
+  --sidebar-bg: linear-gradient(180deg, #0d1b2a 0%, #1a3a52 50%, #2c5f7c 100%);
+  --nav-cursor-color: #4bc5b8;
+  --sidebar-muted-color: #5dd9c1;
+  --sidebar-active-color: #ffffff;
+
+  --btn-border-color: #2c5f7c;
+  --btn-backtotop-color: #4bc5b8;
+  --btn-backtotop-border-color: #2c5f7c;
+}
+
+[data-mode='dark'] {
+  --heading-color: #5dd9c1;
+  --link-color: #4bc5b8;
+  --link-hover-color: #5dd9c1;
+
+  --sidebar-bg: linear-gradient(180deg, #000000 0%, #0d1b2a 50%, #1a3a52 100%);
+  --sidebar-muted-color: #4bc5b8;
+  --nav-cursor-color: #5dd9c1;
+}
+
+/* Apply sidebar gradient */
+#sidebar {
+  background: var(--sidebar-bg) !important;
+}
+
+/* Better fonts */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+.post-content {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 1.125rem;
+  line-height: 1.75;
+}
+
+/* Avatar glow */
+.site-avatar {
+  border: 3px solid #4bc5b8;
+  box-shadow: 0 0 20px rgba(75, 197, 184, 0.4);
+  transition: all 0.3s ease;
+}
+
+.site-avatar:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 25px rgba(75, 197, 184, 0.6);
+}

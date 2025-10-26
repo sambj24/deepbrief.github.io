@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle with deep ocean color -->
+  <circle cx="50" cy="50" r="48" fill="#1a3a52"/>
+
+  <!-- Brain icon in teal -->
+  <g fill="#4bc5b8" transform="translate(50, 50)">
+    <!-- Left hemisphere -->
+    <path d="M-18,-15 C-24,-15 -28,-10 -28,0 C-28,10 -24,15 -18,15 C-15,15 -12,13 -10,10" stroke="#2c5f7c" stroke-width="1.5" fill="none"/>
+    <ellipse cx="-18" cy="0" rx="8" ry="12" fill="#4bc5b8" opacity="0.8"/>
+    <path d="M-18,-8 Q-15,-8 -13,-5" stroke="#5dd9c1" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <path d="M-18,2 Q-16,2 -14,5" stroke="#5dd9c1" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Right hemisphere -->
+    <path d="M18,-15 C24,-15 28,-10 28,0 C28,10 24,15 18,15 C15,15 12,13 10,10" stroke="#2c5f7c" stroke-width="1.5" fill="none"/>
+    <ellipse cx="18" cy="0" rx="8" ry="12" fill="#4bc5b8" opacity="0.8"/>
+    <path d="M18,-8 Q15,-8 13,-5" stroke="#5dd9c1" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <path d="M18,2 Q16,2 14,5" stroke="#5dd9c1" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Center connection (corpus callosum) -->
+    <ellipse cx="0" cy="0" rx="10" ry="14" fill="#4bc5b8"/>
+    <path d="M0,-10 Q0,-5 0,0 Q0,5 0,10" stroke="#5dd9c1" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M-5,-5 Q-2,-3 0,0 Q2,3 5,5" stroke="#5dd9c1" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <path d="M-5,5 Q-2,3 0,0 Q2,-3 5,-5" stroke="#5dd9c1" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

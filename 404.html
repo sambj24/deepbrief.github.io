@@ -1,0 +1,197 @@
+---
+layout: page
+title: "404: Page Not Found"
+permalink: /404.html
+---
+
+<style>
+  .error-container {
+    text-align: center;
+    padding: 4rem 2rem;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .error-title {
+    font-size: 8rem;
+    font-weight: 700;
+    background: linear-gradient(135deg, #2c5f7c, #4bc5b8, #5dd9c1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 1rem;
+    animation: wave-text 3s ease-in-out infinite;
+  }
+
+  .error-subtitle {
+    font-size: 1.5rem;
+    color: #1a3a52;
+    margin-bottom: 1rem;
+  }
+
+  .error-message {
+    font-size: 1.1rem;
+    color: #4a5568;
+    margin-bottom: 2rem;
+    max-width: 500px;
+  }
+
+  .ocean-illustration {
+    width: 300px;
+    height: 200px;
+    margin: 2rem 0;
+    position: relative;
+  }
+
+  .fish {
+    position: absolute;
+    font-size: 3rem;
+    animation: swim 4s ease-in-out infinite;
+  }
+
+  .fish:nth-child(1) {
+    left: 20%;
+    top: 30%;
+    animation-delay: 0s;
+  }
+
+  .fish:nth-child(2) {
+    right: 25%;
+    top: 60%;
+    animation-delay: 1.5s;
+  }
+
+  .fish:nth-child(3) {
+    left: 50%;
+    top: 45%;
+    animation-delay: 3s;
+  }
+
+  .bubble-404 {
+    position: absolute;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, rgba(93, 217, 193, 0.4), rgba(93, 217, 193, 0.1));
+    animation: float-404 6s infinite ease-in-out;
+  }
+
+  .bubble-404:nth-child(1) {
+    width: 20px;
+    height: 20px;
+    left: 30%;
+    bottom: 0;
+    animation-delay: 0s;
+  }
+
+  .bubble-404:nth-child(2) {
+    width: 15px;
+    height: 15px;
+    left: 60%;
+    bottom: 0;
+    animation-delay: 2s;
+  }
+
+  .bubble-404:nth-child(3) {
+    width: 25px;
+    height: 25px;
+    left: 75%;
+    bottom: 0;
+    animation-delay: 4s;
+  }
+
+  .btn-home {
+    display: inline-block;
+    padding: 0.75rem 2rem;
+    background: linear-gradient(135deg, #2c5f7c, #4bc5b8);
+    color: white;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(44, 95, 124, 0.3);
+  }
+
+  .btn-home:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(44, 95, 124, 0.4);
+    color: white;
+  }
+
+  @keyframes wave-text {
+    0%, 100% {
+      filter: hue-rotate(0deg);
+    }
+    50% {
+      filter: hue-rotate(20deg);
+    }
+  }
+
+  @keyframes swim {
+    0%, 100% {
+      transform: translateX(0) scaleX(1);
+    }
+    50% {
+      transform: translateX(20px) scaleX(-1);
+    }
+  }
+
+  @keyframes float-404 {
+    0% {
+      transform: translateY(0);
+      opacity: 0.7;
+    }
+    100% {
+      transform: translateY(-200px);
+      opacity: 0;
+    }
+  }
+
+  [data-mode='dark'] .error-subtitle {
+    color: #5dd9c1;
+  }
+
+  [data-mode='dark'] .error-message {
+    color: #a0aec0;
+  }
+
+  @media (max-width: 768px) {
+    .error-title {
+      font-size: 5rem;
+    }
+
+    .error-subtitle {
+      font-size: 1.25rem;
+    }
+
+    .ocean-illustration {
+      width: 200px;
+      height: 150px;
+    }
+
+    .fish {
+      font-size: 2rem;
+    }
+  }
+</style>
+
+<div class="error-container">
+  <div class="error-title">404</div>
+  <div class="error-subtitle">Lost in the Deep</div>
+  <div class="error-message">
+    The page you're looking for seems to have drifted away into the depths.
+    Let's navigate you back to familiar waters.
+  </div>
+
+  <div class="ocean-illustration">
+    <div class="fish">🐠</div>
+    <div class="fish">🐟</div>
+    <div class="fish">🦑</div>
+    <div class="bubble-404"></div>
+    <div class="bubble-404"></div>
+    <div class="bubble-404"></div>
+  </div>
+
+  <a href="{{ '/' | relative_url }}" class="btn-home">Return to Surface</a>
+</div>
