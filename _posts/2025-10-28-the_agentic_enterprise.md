@@ -1,4 +1,18 @@
+---
+title: "The Agentic Enterprise: Building Intelligent Automation That Scales."
+date: 2025-10-28 08:00:00 -0400
+categories: [posts]
+tags: [ai]
+author: joe
+description: "The Agentic Enterprise is one that pairs human judgment with machine precision. It’s built on clarity, simplicity, and data-driven learning; so every automation amplifies performance, not noise."
+toc: false
+---
+Author name: Joe Sambuco
+
 # The Agentic Enterprise: Building Intelligent Automation That Scales
+
+
+## Introduction
 
 I have written in the past about the misnomer that automation fixes all. In fact, most organizations are automating the wrong way. They’re layering powerfule and expensive  tools over broken processes instead of re-engineering the work itself.  
 
