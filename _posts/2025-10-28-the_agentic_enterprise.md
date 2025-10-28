@@ -14,7 +14,7 @@ Author name: Joe Sambuco
 
 ## Introduction
 
-I have written in the past about the misnomer that automation fixes all. In fact, most organizations are automating the wrong way. They’re layering powerfule and expensive  tools over broken processes instead of re-engineering the work itself.  
+I have written in the past about the misnomer that automation fixes all. In fact, most organizations are automating the wrong way. They’re layering powerful and expensive tools over broken processes instead of taking a good look at the business process flow and re-engineering the processes itself.  
 
 The best companies are moving to what I call the **Agentic Enterprise**, a model where automation systems plan, reason, and execute tasks across the full software lifecycle: design, build, test, deploy, and monitor.  
 
