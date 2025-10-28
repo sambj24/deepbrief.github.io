@@ -44,7 +44,7 @@ In business, **Bank of America** faced similar issues in its loan processing div
 
 ---
 
-## 2. Keep Humans in Control
+## Keep Humans in Control
 
 Automation should reduce cognitive load, not eliminate judgment.  
 
@@ -63,7 +63,7 @@ Add guidelines on human-in-the-loop checkpoints.
 
 ---
 
-## 3. Build for Context and Reliability
+## Build for Context and Reliability
 
 Systems need context to be effective.  
 
@@ -85,7 +85,7 @@ Illustrate short-term and long-term memory usage in enterprise agents.
 
 ---
 
-## 4. Data Discipline Defines Performance
+## Data Discipline Defines Performance
 
 Every automation outcome reflects the quality of its data.  
 
@@ -106,7 +106,7 @@ Show how companies enforce data quality before scaling automation.
 
 ---
 
-## 5. Security as Architecture
+## Security as Architecture
 
 Security isn’t a patch, it’s a foundation.  
 
@@ -130,7 +130,7 @@ Discuss embedding security into workflows, not as a final step.
 
 ---
 
-## 6. The Platforms Making It Real
+## The Platforms Making It Real
 
 The enterprise automation stack spans multiple cognitive and orchestration layers. Leaders today include:  
 
@@ -174,7 +174,7 @@ These platforms form the **cognitive layer**, the reasoning core of the Agentic 
 
 ---
 
-## 7. Open Frameworks Driving Automation
+## Open Frameworks Driving Automation
 
 | Layer                   | Framework  | GitHub                                  | Purpose                                               |
 | ----------------------- | ---------- | --------------------------------------- | ----------------------------------------------------- |
@@ -201,7 +201,7 @@ Practical adoption examples.
 
 ---
 
-## 8. Preparing the Next Generation: STEM’s Role
+## Preparing the Next Generation: STEM’s Role
 
 Future engineers will work inside autonomous systems, not beside them.  
 
@@ -228,7 +228,7 @@ Highlight institutions adopting agentic tools in curriculum.
 
 ---
 
-## 9. STEM Educators Integrating Agentic Tools
+## STEM Educators Integrating Agentic Tools
 
 Educators are adopting agentic tools to improve learning:  
 
@@ -248,7 +248,7 @@ Metrics of improved engagement or learning outcomes.
 
 ---
 
-## 10. Engineering Leadership in the Agentic Era
+## Engineering Leadership in the Agentic Era
 
 The winners treat automation as infrastructure. They measure success via velocity, reliability, and cost per change, not the perceived “intelligence” of a tool.  
 
